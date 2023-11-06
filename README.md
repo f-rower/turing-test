@@ -1,0 +1,3 @@
+# turing-test
+THIS IS A NEW REPOSITORY IN PREPARATION FOR THE TURING WAY
+- This is a list item
